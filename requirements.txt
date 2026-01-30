@@ -1,0 +1,7 @@
+tensorflow==2.15.0
+ultralytics==8.0.0
+opencv-python-headless
+numpy
+pandas
+matplotlib
+pillow
