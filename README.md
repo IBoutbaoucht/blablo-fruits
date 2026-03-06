@@ -1,11 +1,11 @@
-# Blablo-fruits LDC: Hybrid AI for Crop Disease Diagnosis
+# Blablo-Fruits LDC: Hybrid AI for Crop Disease Diagnosis
 
 > **Competition Entry:** Local Domotics Competition (LDC) - Green Tech Theme.
 > **Status:** Prototype Completed.
 
 ### 📌 Overview
 
-AgroScan is a computer vision system designed to help farmers identify crop diseases and nutritional deficiencies in real-time. Unlike traditional classifiers that fail in messy environments, AgroScan uses a **Hybrid Architecture** that combines Object Detection with deep classification to handle complex greenhouse backgrounds.
+Blablo-Fruits is a computer vision system designed to help farmers identify crop diseases and nutritional deficiencies in real-time. Unlike traditional classifiers that fail in messy environments, AgroScan uses a **Hybrid Architecture** that combines Object Detection with deep classification to handle complex greenhouse backgrounds.
 
 ### 🧠 The Hybrid Architecture
 
