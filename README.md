@@ -1,6 +1,6 @@
 # Blablo-Fruits LDC: Hybrid AI for Crop Disease Diagnosis
 
-> **Competition Entry:** Local Domotics Competition (LDC) - Green Tech Theme.
+> **Competition Entry:** Local Domotics Competition (LDC) 2024 - Green Tech Theme.
 > **Status:** Prototype Completed.
 
 ### 📌 Overview
